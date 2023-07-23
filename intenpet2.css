@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@700&display=swap');
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: auto;
+    width: 50%;
+}
+.header{
+    padding: 0 0 0 50px;
+}
+.header p{
+    font-size: 40px;
+    font-weight: bolder;
+    color: #5f7bcd;
+}
+.header span{
+    font-size: 20px;
+    color: #000;
+    font-weight: lighter;
+}
+.main-title hr{
+    position: relative;
+    top: -5rem;
+    left: 4.3rem;
+
+}
+.main-title #ab{
+    height: 3px;
+    width: 35px;
+    position: relative;
+    left: 2rem;
+    top: -4.4rem;
+}
+.main-title p{
+    font-size: 30px;
+    font-weight: bold;
+    color: #5f7bcd;
+    padding:0 0 40px 60px;
+    border-radius: 1px ;
+    position: relative;
+    top: 0.4rem;
+    left: 0.3rem;
+}
+.main-content{
+    padding: 0 50px 0 50px;
+}
+.main-content span{
+    font-weight: bold;
+}
+.first-para,.second-para,.third-para{
+    color: #767676;
+}
+.first-para{
+    padding:20px 0 60px 0;
+}
+.first-para span{
+    color: #000;
+    font-weight: bold;
+}
+.second-para{
+    padding:0 0 20px 0;
+}
+.second-para span{
+    color: #000;
+    font-weight: bold;
+}
